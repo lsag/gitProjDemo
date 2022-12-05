@@ -3,3 +3,4 @@ vegetais
 gelados
 games
 alteração a dieta.txt
+games: Dome Keeper
