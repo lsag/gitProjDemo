@@ -1,0 +1,4 @@
+fruta
+vegetais
+gelados
+games
