@@ -2,3 +2,4 @@ info inutil, n1 file mais inutil ainda outra coisa
 mais info
 alteração linha 1
 alteração linha 2
+alteração linha 3
