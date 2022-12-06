@@ -3,3 +3,4 @@ vegetais
 gelados
 games: online / offline
 fitness: jogging, ginasio
+junkfood?
