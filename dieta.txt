@@ -1,6 +1,5 @@
 fruta
 vegetais
 gelados
-games
-alteração a dieta.txt
-games: Dome Keeper
+games: online / offline
+fitness: jogging, ginasio
