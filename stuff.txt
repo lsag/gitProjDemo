@@ -2,3 +2,4 @@ laptop
 cenas de ginastica
 gajas
 linha p apagar 1
+linha p apagar 2
